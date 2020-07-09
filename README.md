@@ -6,7 +6,7 @@ Both Arduino sketches are heavily based on the Adafruit learn examples. Maybe ju
 
 ### Temp_logger_SD
 Reads the thermocouples every minute. But you can modify this by editing the value of the global variable
-'unsigned long LONG_DELAY_MS = 60000; //1 min in ms
+`unsigned long LONG_DELAY_MS = 60000; //1 min in ms`
 
 Make sure you specify the delay in milliseconds
 
